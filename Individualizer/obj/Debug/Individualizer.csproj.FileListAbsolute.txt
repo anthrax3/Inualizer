@@ -1,0 +1,11 @@
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Individualizer.csprojResolveAssemblyReference.cache
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Individualizer.Form1.resources
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Individualizer.Properties.Resources.resources
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Individualizer.csproj.GenerateResource.Cache
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\bin\Debug\Inualizer.exe
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\bin\Debug\Inualizer.pdb
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Inualizer.exe
+c:\users\gersywin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Inualizer.pdb
+C:\Users\GersyWin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Individualizer.FrmSettings2.resources
+C:\Users\GersyWin\documents\visual studio 2012\Projects\Individualizer\Individualizer\bin\Debug\Inualizer.exe.config
+C:\Users\GersyWin\documents\visual studio 2012\Projects\Individualizer\Individualizer\obj\Debug\Individualizer.FrmAbout.resources
