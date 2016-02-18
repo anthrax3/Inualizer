@@ -14,5 +14,8 @@ ico
 <h3> Download </h3>
 <a href='http://www.mediafire.com/download/8iry2j394pfusel/Inualizer.zip' > Mediafire.com </a>
 
+<a href='http://www.softpedia.com/get/System/File-Management/Inualizer.shtml' > Softpedia.com </a>
+
+</br></br></br></br></br></br> 
 
 <a href='http://www.softpedia.com/publisher/yasser-gersy-99778.html'> My softwares </a>
